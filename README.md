@@ -3,7 +3,7 @@
 [Перейти к Linux](#linux)  
 [Перейти к LinuxNetwork](#linuxnetwork)  
 [Перейти к Docker](#docker)  
-[Перейти к CI/CD](#ci_cd)
+[Перейти к CI/CD](#cicd)
 
 
 # Linux
@@ -1206,7 +1206,7 @@ INFO    - CIS-DI-0008: Confirm safety of setuid/setgid files <br>
 ![simple_docker](Docker/source/ex6/4.png)<br>
 
 
-# CI_CD
+# CICD
 
 ## Basic CI/CD
 ![ex1](CI_CD/picture/ex1/1.png)
