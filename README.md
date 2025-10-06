@@ -1206,7 +1206,7 @@ INFO    - CIS-DI-0008: Confirm safety of setuid/setgid files <br>
 ![simple_docker](Docker/source/ex6/4.png)<br>
 
 
-# CICD
+# cicd
 
 ## Basic CI/CD
 ![ex1](CI_CD/picture/ex1/1.png)
