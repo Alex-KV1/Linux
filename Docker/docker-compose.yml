@@ -1,0 +1,11 @@
+services:
+  service1:
+    build: .
+    container_name: service1
+  service2:
+    image: nginx:latest
+    volumes:
+      - \ex6\nginx.conf
+    ports:
+      - 80:8080
+    container_name: service2

@@ -1,0 +1,18 @@
+********************************
+**HOSTNAME** = DESKTOP-0BI57TL
+**TIMEZONE** = Time zone: Europe/Moscow (MSK, +0300)
+**USER** = ahrigray
+**OS** = Ubuntu 22.04.4 LTS
+**DATE** = 21 Mar 2025 16:32:40
+**UPTIME** = 2 hours, 39 minutes
+**UPTIME_SEC** = 9590
+**IP** = 172.26.16.228
+**MASK** = 0.0.0.0
+**GATEWAY** = 172.26.16.1
+**RAM_TOTAL** = 15965,240
+**RAM_USED** = 615,236
+**RAM_FREE** = 14456,764
+**SPACE_ROOT** = 1031018,43
+**SPACE_ROOT_USED** = 9515.33
+**SPACE_ROOT_FREE** = 969058.30
+********************************

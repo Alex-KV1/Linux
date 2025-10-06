@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "getopt.h": "c",
+        "func.h": "c",
+        "random": "c"
+    }
+}
